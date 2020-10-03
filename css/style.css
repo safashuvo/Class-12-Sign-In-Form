@@ -46,6 +46,7 @@ h5::before{
     transform: translateY(-50%);
 }
 .overline{
+    position:relative;
     background: #ffffff;
     padding: 0px 16px;
 }
